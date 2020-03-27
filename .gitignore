@@ -1,3 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
 study/probability_table_for_user/analysis/data/dataset15.csv
+study/probability_table_for_user/analysis/output_cls/*.csv
+study/probability_table_for_user/analysis/cls32_png/
+study/probability_table_for_user/analysis/output_cls32/
+study/probability_table_for_user/analysis/output_cls5/
